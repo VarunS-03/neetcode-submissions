@@ -19,3 +19,5 @@ class Solution:
             if curr.right:
                 queue.append(curr.right)
         return root
+
+# What i need to clarify is the process using DFS, how exactly it works, and why?
